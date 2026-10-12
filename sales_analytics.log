@@ -1,0 +1,14 @@
+2026-10-12 08:14:35,658 - INFO - Customer data coverted to CSV successfully
+2026-10-12 08:14:36,760 - INFO - Sales data coverted to CSV successfully
+2026-10-12 08:14:37,675 - INFO - Customer data loaded to spark successfully
+2026-10-12 08:14:37,943 - INFO - Sales data loaded to spark successfully
+2026-10-12 08:14:38,559 - INFO - Duplicates removed successfully
+2026-10-12 08:14:39,815 - INFO - Data types corrected successfully
+2026-10-12 08:14:40,449 - INFO - Null values identified successfully
+2026-10-12 08:14:40,466 - INFO - Null values removed successfully
+2026-10-12 08:14:40,844 - INFO - Column names renamed successfully
+2026-10-12 08:14:41,408 - INFO - Missing values filled successfully
+2026-10-12 08:14:41,475 - INFO - Temporary views created successfully
+2026-10-12 08:15:13,406 - INFO - Level 1 completed successfully
+2026-10-12 08:15:19,567 - INFO - Level 2 completed successfully
+2026-10-12 08:15:25,144 - INFO - Level 3 completed successfully
